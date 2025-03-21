@@ -1,10 +1,4 @@
 ## Hi there 👋
-##
-![Jokes](https://readme-jokes.vercel.app/api)
-##
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
-##
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Charity Auction Website 
@@ -14,6 +8,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... My Teams Win at RGU Hack 25!
 - 📫 How to reach me: ... Twitter@xvitcov vitcov.org 
 - ⚡ Fun fact: ... My first coding experience was when I was 12, modding the Gothic 2 Game files
+
+##
+![Jokes](https://readme-jokes.vercel.app/api)
+##
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
+##
+
 ## Visitor Counter 
 ![Profile Views](https://komarev.com/ghpvc/?username=itspoppadom&color=blue)
 
