@@ -13,18 +13,12 @@ Here are some ideas to get you started:
 ![Jokes](https://readme-jokes.vercel.app/api)
 ##
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
-##
-
-## Visitor Counter 
+## 
 ![Profile Views](https://komarev.com/ghpvc/?username=itspoppadom&color=blue)
 
 ## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itspoppadom&show_icons=true&theme=radical)
-
-## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itspoppadom&layout=compact&theme=radical)
-
-## Streaks
 ![GitHub Streak](https://streak-stats.demolab.com/?user=itspoppadom&theme=radical)
 
 ##
