@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itspoppadom&layout=compact&theme=radical)
 
 ## Streaks
-![GitHub Streak](https://streak-stats.demolab.com/?user=itspopppadom&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=itspoppadom&theme=radical)
 
 ## Catch my Vibe
 ![Spotify](https://novatorem-21qlb572powpphu2e4uawex4y.vercel.app/api/spotify)
