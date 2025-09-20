@@ -1,8 +1,8 @@
 ## Hi there 👋
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Charity Auction Website 
-- 🌱 I’m currently learning ... HND Software Developmnet @ NESCol
+- 🔭 I’m currently working on ... BSc Computer Science   
+- 🌱 I’m currently learning ... Concurrent programming, ML 
 - 👯 I’m looking to collaborate on ... Any good pitch
 - 🤔 I’m looking for help with ... Sharpening my skills
 - 💬 Ask me about ... My Teams Win at RGU Hack 25!
